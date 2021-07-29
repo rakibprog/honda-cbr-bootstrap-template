@@ -117,3 +117,40 @@ featured section style end */
     background-color: #E76F51;
     color: #fff !important;
 }
+
+
+/* 
+qoute section style start */
+
+.quote-sec {
+    background-color: #fca351;
+}
+
+
+/* 
+qoute section style end */
+
+
+/* key-feature-section-style start */
+
+.progress {
+    display: flex;
+    height: 2rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+    margin-top: 30px;
+}
+
+.key-feauture {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/* key-feature-section-style end */
